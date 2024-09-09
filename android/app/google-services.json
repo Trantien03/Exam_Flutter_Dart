@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "573300544645",
+    "project_id": "fir-app-ed2e8",
+    "storage_bucket": "fir-app-ed2e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573300544645:android:a14b9a7a1cbd6606f445ec",
+        "android_client_info": {
+          "package_name": "com.example.examflutterdart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa3m4nTRoDQ6BBmxY4zCL6UELZOu7hQBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573300544645:android:a14b9a7a1cbd6606f445ec",
+        "android_client_info": {
+          "package_name": "com.example.examflutterdart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa3m4nTRoDQ6BBmxY4zCL6UELZOu7hQBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
